@@ -1,0 +1,14 @@
+.home{
+    height: calc(100% - 9%);
+    width: 100%;
+    display: flex;
+}
+.left{
+    height: 100%;
+    width: 60%;
+    padding: 0 4vw;
+}
+.right{
+    height: 100%;
+    width: calc(100% - 60%);
+}
